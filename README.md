@@ -24,7 +24,3 @@
     
 # 视频地址： 
 https://www.youtube.com/watch?v=XJfaAkvLXyU
-
-# 免费工具：
-        
-## [字幕翻译工具链接](https://gist.github.com/qwertyuiop6/8499fe086491da90617fe17c32716d4e)
